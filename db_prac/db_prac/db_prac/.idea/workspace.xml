@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4591a2db-3cfa-4bb4-829b-46c6dd57286f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/chitose/db_prac/PreExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/chitose/db_prac/PreExamDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/chitose/db_prac/selectDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4136d7e1-6ffd-41a7-bfbe-214db518e800.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4136d7e1-6ffd-41a7-bfbe-214db518e800.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4136d7e1-6ffd-41a7-bfbe-214db518e800/storage_v2/_src_/database/DB_PRAC.xegngw/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4136d7e1-6ffd-41a7-bfbe-214db518e800/storage_v2/_src_/database/DB_PRAC.xegngw/schema/PUBLIC.aaZQjQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ac/chitose/db_prac/DeleteDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ac/chitose/db_prac/PreExamDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ac/chitose/db_prac/PreExamDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +66,20 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="アプリケーション.selectDemo">
+    <configuration name="DeleteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jp.ac.chitose.db_prac.DeleteDemo" />
+      <module name="db_prac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jp.ac.chitose.db_prac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="selectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jp.ac.chitose.db_prac.selectDemo" />
       <module name="db_prac" />
@@ -87,6 +96,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="アプリケーション.selectDemo" />
+        <item itemvalue="アプリケーション.DeleteDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +110,7 @@
       <updated>1698760719022</updated>
       <workItem from="1698760720031" duration="5387000" />
       <workItem from="1700483463598" duration="4231000" />
-      <workItem from="1700550082774" duration="5407000" />
+      <workItem from="1700550082774" duration="6626000" />
     </task>
     <servers />
   </component>
